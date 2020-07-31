@@ -1,0 +1,3 @@
+use favicon.ic to create an favicon
+
+FAVICON = pic shown in tab
